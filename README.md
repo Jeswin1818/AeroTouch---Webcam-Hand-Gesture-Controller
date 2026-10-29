@@ -1,11 +1,14 @@
-<div align="center">
-
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+AeroTouch
+Description
+AeroTouch is a webcam-based hand gesture controller that allows you to interact with your Windows desktop using natural hand movements. By utilizing your webcam and advanced computer vision technology, it maps specific hand gestures to mouse actions, enabling a touch-free navigation experience.
+Features
+ * Single Click: Pinch Thumb + Index finger.
+ * Double Click: Double Pinch Thumb + Index finger.
+ * Right Click: Pinch Thumb + Middle finger.
+ * Move & Drag: Point Index finger and hold Pinch.
+ * Throw to Bin: Open Palm Flick.
+How to Get Started
+ * Ensure your webcam is connected and unobstructed.
+ * Launch the AeroTouch application.
+ * Enable the webcam in the Vision Analyzer panel.
+ * Position your hand within the camera's view and start controlling your pointer.
